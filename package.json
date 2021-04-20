@@ -15,7 +15,7 @@
     "react-scripts": "4.0.1",
     "web-vitals": "^0.2.4"
   },
-  "homepage": "https://jordanaf808.github.it/Wildfire_Tracker.git",
+  "homepage": "https://jordanaf808.github.io/Wildfire_Tracker",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
