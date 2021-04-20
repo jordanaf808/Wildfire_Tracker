@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Wildfire_Tracker.git/static/css/main.db5a6450.chunk.css",
-    "main.js": "/Wildfire_Tracker.git/static/js/main.3821b8b3.chunk.js",
-    "main.js.map": "/Wildfire_Tracker.git/static/js/main.3821b8b3.chunk.js.map",
-    "runtime-main.js": "/Wildfire_Tracker.git/static/js/runtime-main.5b978fb7.js",
-    "runtime-main.js.map": "/Wildfire_Tracker.git/static/js/runtime-main.5b978fb7.js.map",
-    "static/js/2.47e6e470.chunk.js": "/Wildfire_Tracker.git/static/js/2.47e6e470.chunk.js",
-    "static/js/2.47e6e470.chunk.js.map": "/Wildfire_Tracker.git/static/js/2.47e6e470.chunk.js.map",
-    "static/js/3.59ebaa66.chunk.js": "/Wildfire_Tracker.git/static/js/3.59ebaa66.chunk.js",
-    "static/js/3.59ebaa66.chunk.js.map": "/Wildfire_Tracker.git/static/js/3.59ebaa66.chunk.js.map",
-    "index.html": "/Wildfire_Tracker.git/index.html",
-    "static/css/main.db5a6450.chunk.css.map": "/Wildfire_Tracker.git/static/css/main.db5a6450.chunk.css.map",
-    "static/js/2.47e6e470.chunk.js.LICENSE.txt": "/Wildfire_Tracker.git/static/js/2.47e6e470.chunk.js.LICENSE.txt",
-    "static/media/NASA_logo.d30e3cd5.svg": "/Wildfire_Tracker.git/static/media/NASA_logo.d30e3cd5.svg",
-    "static/media/reddit-like-spinner.eebfcd02.gif": "/Wildfire_Tracker.git/static/media/reddit-like-spinner.eebfcd02.gif"
+    "main.css": "/Wildfire_Tracker/static/css/main.db5a6450.chunk.css",
+    "main.js": "/Wildfire_Tracker/static/js/main.3821b8b3.chunk.js",
+    "main.js.map": "/Wildfire_Tracker/static/js/main.3821b8b3.chunk.js.map",
+    "runtime-main.js": "/Wildfire_Tracker/static/js/runtime-main.60cfbdbb.js",
+    "runtime-main.js.map": "/Wildfire_Tracker/static/js/runtime-main.60cfbdbb.js.map",
+    "static/js/2.47e6e470.chunk.js": "/Wildfire_Tracker/static/js/2.47e6e470.chunk.js",
+    "static/js/2.47e6e470.chunk.js.map": "/Wildfire_Tracker/static/js/2.47e6e470.chunk.js.map",
+    "static/js/3.59ebaa66.chunk.js": "/Wildfire_Tracker/static/js/3.59ebaa66.chunk.js",
+    "static/js/3.59ebaa66.chunk.js.map": "/Wildfire_Tracker/static/js/3.59ebaa66.chunk.js.map",
+    "index.html": "/Wildfire_Tracker/index.html",
+    "static/css/main.db5a6450.chunk.css.map": "/Wildfire_Tracker/static/css/main.db5a6450.chunk.css.map",
+    "static/js/2.47e6e470.chunk.js.LICENSE.txt": "/Wildfire_Tracker/static/js/2.47e6e470.chunk.js.LICENSE.txt",
+    "static/media/NASA_logo.d30e3cd5.svg": "/Wildfire_Tracker/static/media/NASA_logo.d30e3cd5.svg",
+    "static/media/reddit-like-spinner.eebfcd02.gif": "/Wildfire_Tracker/static/media/reddit-like-spinner.eebfcd02.gif"
   },
   "entrypoints": [
-    "static/js/runtime-main.5b978fb7.js",
+    "static/js/runtime-main.60cfbdbb.js",
     "static/js/2.47e6e470.chunk.js",
     "static/css/main.db5a6450.chunk.css",
     "static/js/main.3821b8b3.chunk.js"
