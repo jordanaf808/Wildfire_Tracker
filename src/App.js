@@ -19,7 +19,7 @@ function App() {
     const fetchEvents = async () => {
       setLoading(true);
       const res = await fetch(
-        'https://eonet.gsfc.nasa.gov/api/v3/categories' // 'https://eonet.sci.gsfc.nasa.gov/api/v2.1/categories/8'
+        'https://eonet.gsfc.nasa.gov/api/v3/events' // 'https://eonet.sci.gsfc.nasa.gov/api/v2.1/categories/8'
       );
       const data = res.json();
       console.log('data', data);
