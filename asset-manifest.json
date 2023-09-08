@@ -1,24 +1,17 @@
 {
   "files": {
-    "main.css": "/Wildfire_Tracker/static/css/main.fe793459.chunk.css",
-    "main.js": "/Wildfire_Tracker/static/js/main.3821b8b3.chunk.js",
-    "main.js.map": "/Wildfire_Tracker/static/js/main.3821b8b3.chunk.js.map",
-    "runtime-main.js": "/Wildfire_Tracker/static/js/runtime-main.60cfbdbb.js",
-    "runtime-main.js.map": "/Wildfire_Tracker/static/js/runtime-main.60cfbdbb.js.map",
-    "static/js/2.47e6e470.chunk.js": "/Wildfire_Tracker/static/js/2.47e6e470.chunk.js",
-    "static/js/2.47e6e470.chunk.js.map": "/Wildfire_Tracker/static/js/2.47e6e470.chunk.js.map",
-    "static/js/3.59ebaa66.chunk.js": "/Wildfire_Tracker/static/js/3.59ebaa66.chunk.js",
-    "static/js/3.59ebaa66.chunk.js.map": "/Wildfire_Tracker/static/js/3.59ebaa66.chunk.js.map",
+    "main.css": "/Wildfire_Tracker/static/css/main.17b942f5.css",
+    "main.js": "/Wildfire_Tracker/static/js/main.847f7255.js",
+    "static/js/377.2df76ab2.chunk.js": "/Wildfire_Tracker/static/js/377.2df76ab2.chunk.js",
+    "static/media/reddit-like-spinner.gif": "/Wildfire_Tracker/static/media/reddit-like-spinner.eebfcd02d5b74568845c.gif",
+    "static/media/NASA_logo.svg": "/Wildfire_Tracker/static/media/NASA_logo.d30e3cd547a682bba78cf1e5e058d924.svg",
     "index.html": "/Wildfire_Tracker/index.html",
-    "static/css/main.fe793459.chunk.css.map": "/Wildfire_Tracker/static/css/main.fe793459.chunk.css.map",
-    "static/js/2.47e6e470.chunk.js.LICENSE.txt": "/Wildfire_Tracker/static/js/2.47e6e470.chunk.js.LICENSE.txt",
-    "static/media/NASA_logo.d30e3cd5.svg": "/Wildfire_Tracker/static/media/NASA_logo.d30e3cd5.svg",
-    "static/media/reddit-like-spinner.eebfcd02.gif": "/Wildfire_Tracker/static/media/reddit-like-spinner.eebfcd02.gif"
+    "main.17b942f5.css.map": "/Wildfire_Tracker/static/css/main.17b942f5.css.map",
+    "main.847f7255.js.map": "/Wildfire_Tracker/static/js/main.847f7255.js.map",
+    "377.2df76ab2.chunk.js.map": "/Wildfire_Tracker/static/js/377.2df76ab2.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.60cfbdbb.js",
-    "static/js/2.47e6e470.chunk.js",
-    "static/css/main.fe793459.chunk.css",
-    "static/js/main.3821b8b3.chunk.js"
+    "static/css/main.17b942f5.css",
+    "static/js/main.847f7255.js"
   ]
 }
