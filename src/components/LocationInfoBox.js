@@ -4,7 +4,7 @@ const LocationInfoBox = ({ info, close }) => {
   console.log(info);
   return (
     <div className='location-info'>
-      <p onClick={close} class='close-box'>
+      <p onClick={close} className='close-box'>
         <em>close</em>
       </p>
       <h2>

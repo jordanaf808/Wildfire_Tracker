@@ -21,12 +21,13 @@ const Map = ({ eventData, center, zoom }) => {
   };
 
   const markers = eventData.map(ev => {
-    if (ev.categories[0].id === 'wildfires') {
+    if (ev.categories[0].id === 8) {
+      console.log("fire");
       return (
         <LocationMarker
           key={ev.id}
-          lat={ev.geometry[0].coordinates[1]}
-          lng={ev.geometry[0].coordinates[0]}
+          lat={ev.geometries[0].coordinates[1]}
+          lng={ev.geometries[0].coordinates[0]}
           onClick={() => setLocationInfo({ id: ev.id, title: ev.title, ...ev })}
         />
       );
