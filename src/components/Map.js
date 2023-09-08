@@ -14,10 +14,12 @@ const Map = ({ eventData, center, zoom }) => {
   console.log("eventData", eventData);
   // create a piece of state for location info, null is default
   const [locationInfo, setLocationInfo] = useState(null);
+  
   const close = () => {
     setLocationInfo(null);
     console.log('close clicked');
   };
+
   const markers = eventData.map(ev => {
     if (ev.categories[0].id === 'wildfires') {
       return (
